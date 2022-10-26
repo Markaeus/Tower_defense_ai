@@ -11,14 +11,6 @@ Player can choose to use the game in any of given modes.
 Implemented Genetic Algorithm from scratch whose performance matches human level performance.
 ```
 
-File filter 
- 
-  23  
-README.md
-@@ -11,6 +11,29 @@ Player can choose to use the game in any of given modes.
-Implemented Genetic Algorithm from scratch whose performance matches human level performance.
-```
-
 Alternative RL Algorithms
 -------------------
 
